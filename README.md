@@ -1,2 +1,1 @@
 # EmbeddedLinux
-Hell no
